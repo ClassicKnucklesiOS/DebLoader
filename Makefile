@@ -1,5 +1,5 @@
 # The SDK and iOS version to target. This is specifying the iOS 14.4 SDK and minimum build target as iOS 14.0
-TARGET = iphone:14.4:14.0
+TARGET = iphone:15.8.2:15.0
 # The archiectures to compile for, arm64 is fine for most apps
 ARCHS = arm64
 
